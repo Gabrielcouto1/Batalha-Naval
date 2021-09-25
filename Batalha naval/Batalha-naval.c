@@ -12,12 +12,9 @@ o jogo).
     Se antes de iniciar o jogo, o usuario inserir uma quantidade de submarinos, torpedos e destruidores que
 impossibilitam o jogo de ser jogado, o programa se encerra e escreve a mensagem de erro na tela.
 
-Codigo escrito em 2021 por:
-Gabriel Couto de Freitas - 12021BCC040
-Ana Barbara Campos - 12021BCC017 
-Fabricio Ishizuka - 12021BCC033
-
+Codigo escrito em 2021 por Gabriel Couto de Freitas
 */
+
 #include <stdio.h> //Inclusao de biblioteca de funcoes basicas em C
 #include <stdlib.h> //Inclusao de biblioteca de funcoes basicas em C
 #include <ctype.h> //Inclusao de biblioteca para utilizacao de toupper, afim de reduzir erros do usuario   

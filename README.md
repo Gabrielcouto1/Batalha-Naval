@@ -1,6 +1,5 @@
 # Batalha Naval
 ### Trabalho 1 de Programação Procedimental. O programa, segue orientações do professor, foi escrito inteiramente em C e sem utilização de funções além da main().
- 
 
 >O programa opera um jogo simples de batalha naval com dois modos, PLAY e CORR.
 >
